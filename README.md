@@ -13,7 +13,10 @@
 4. Install all the packages:
     ````bash
    pip install -r requiremetns.txt
-   
+ 5. Run the models.py file:
+   ```bash
+   python models.py
+After that command the cat_vs_dog model save in h5 like this cat_vs_dog_model.h5 
 
 Create or upload files
 
